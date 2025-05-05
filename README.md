@@ -12,5 +12,9 @@ Input:
 Output
    simple interest = p*t*r
 ```
+git add README.md
+git commit -m "Fixed typo in README"
+git push origin bug-fix-typo
+
 
 _© 2022 XYZ, Inc._
